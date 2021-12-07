@@ -1,4 +1,9 @@
-﻿using System;
+/* Copyright (c) 2018 Ian Philips
+ * https://github.com/IanPhilips/UnityOculusAndroidVRBrowser
+ * Released under the MIT license.
+ * see https://opensource.org/licenses/MIT */
+
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
